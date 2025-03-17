@@ -1,0 +1,30 @@
+warning-Sat Nov  2 09:30:05 2019-cm logging req undefined device 127.0.0.1 sdsd sd 23
+
+error-Sat Nov  2 09:30:05 2019-cm main socket closed
+error-Sat Nov  2 09:31:40 2019-cm main socket closed
+warning-Sat Nov  2 09:33:10 2019-cm logging req undefined device 127.0.0.1 324 234 234
+
+warning-Sat Nov  2 09:33:10 2019-cm loggin req wrong password 127.0.0.1 test0 ladadad 21312
+
+warning-Sat Nov  2 09:33:10 2019-cm loggin req accpected 127.0.0.1 434 test1 lady124 434
+
+warning-Sat Nov  2 09:33:10 2019-cm logging req undefined device 127.0.0.1 tes0 lady123 434
+
+error-Sat Nov  2 09:33:10 2019-cm main socket closed
+warning-Sat Nov  2 09:36:10 2019-cm loggin req accpected 127.0.0.1 1212 test0 lady123 1212
+
+error-Sat Nov  2 09:36:10 2019-cm main socket closed
+warning-Sat Nov  2 09:37:28 2019-cm loggin req accpected 127.0.0.1 1213 test0 lady123 1213
+
+warning-Sun Nov  3 10:53:23 2019-cm loggin req accpected 127.0.0.1 1234 int0 1234 1234
+
+warning-Sun Nov  3 10:53:23 2019-cm loggin req accpected 127.0.0.1 1233 int0 1234 1233
+
+warning-Sun Nov  3 11:05:28 2019-cm loggin req accpected 127.0.0.1 6064 int0 1234 6064
+
+warning-Sun Nov  3 11:05:28 2019-cm loggin req accpected 127.0.0.1 5454 int0 1234 5454
+
+warning-Sun Nov  3 14:22:18 2019-cm loggin req accpected 127.0.0.1 5454 int0 1234 5454
+
+warning-Sun Nov  3 14:26:15 2019-cm loggin req accpected 127.0.0.1 5454 int0 1234 5454
+

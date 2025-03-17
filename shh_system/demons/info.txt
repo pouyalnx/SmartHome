@@ -1,0 +1,3 @@
+this folder contain users,demons and required lib
+and also will be contain an interface for connection from out to the system
+and interface for monitoring
